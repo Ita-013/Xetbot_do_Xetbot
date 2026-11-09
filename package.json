@@ -1,0 +1,10 @@
+{
+  "name": "monitor-promocoes-telegram",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Verifica canais públicos de promoções do Telegram e avisa via bot",
+  "scripts": {
+    "start": "node check.js",
+    "testar": "node check.js --seco"
+  }
+}

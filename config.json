@@ -1,0 +1,21 @@
+{
+  "canais": [
+    "achadoshardware",
+    "xetdaspromocoes"
+  ],
+
+  "produtos": [
+    {
+      "nome": "Air Fryer",
+      "todas": ["air fryer"],
+      "excluir": ["forma", "papel", "acessorio"],
+      "precoMaximo": 400
+    },
+    {
+      "nome": "SSD 1TB",
+      "todas": ["ssd"],
+      "alguma": ["1tb", "1 tb"],
+      "precoMaximo": 450
+    }
+  ]
+}
