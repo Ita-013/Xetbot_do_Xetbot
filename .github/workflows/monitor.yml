@@ -25,7 +25,7 @@ jobs:
 
       - name: Verificar canais
         env:
-          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          BOT_TOKEN: ${{ secrets.Testedosegredo,selerégay }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
         run: node check.js
 
